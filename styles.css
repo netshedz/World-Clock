@@ -1,10 +1,14 @@
 body {
-  background: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);
+  background: linear-gradient(
+    95.2deg,
+    rgb(173, 252, 234) 26.8%,
+    rgb(192, 229, 246) 64%
+  );
 }
 .container {
   max-width: 600px;
   margin: 60px auto;
-  background: #fcfefe;
+  background: #8594e4;
   padding: 36px;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   border-radius: 10px;
